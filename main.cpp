@@ -8,11 +8,10 @@
 #include "vector2.h"
 #include "triangle.h"
 #include "delaunay.h"
+#include "draw.h"
 
 #include "GL/freeglut.h"
 #include "GL/gl.h"
-
-
 
 typedef Vector2<float> Vec2f;
 
@@ -23,28 +22,12 @@ float RandomFloat(float a, float b) {
     return a + r;
 }
 
-std::vector<Edge> global_incremental_edges;
-
-void renderFunction(){
-  
-  std::cout << "From Render Function" << std::endl;
-  glClear(GL_COLOR_BUFFER_BIT);
-  for(auto &e : global_incremental_edges){
-    glBegin(GL_LINES);
-      glVertex2f(e.p1.x, e.p1.y);
-      glVertex2f(e.p2.x, e.p2.y);
-    glEnd();
-  }
-
-  glFlush();
-}
-
 
 int main(int argc, char** argv)
 {
 	srand (time(NULL));
 	float numberPoints = roundf(RandomFloat(4, 40));
-  numberPoints = 10;
+  numberPoints = 5;
   int window_height = 800;
   int window_width = 600;
 
@@ -74,22 +57,10 @@ int main(int argc, char** argv)
 	for(auto &e : edges)
 		std::cout << e.p1.x << std::endl;
 
-  global_incremental_edges = edges;
-
   // openGl Drawing for Incremental Delaunay Triangulation
-  glutInit(&argc, argv);
-  glutInitDisplayMode(GLUT_SINGLE);
-  glutInitWindowSize(window_height,window_height);
-  glutCreateWindow("Incremental Delaunay Triangulation");
-  glClearColor(0, 0, 0, 0);
-  glViewport(0, 0, window_height, window_width);
-  glMatrixMode(GL_PROJECTION);
-  glLoadIdentity();
-  glOrtho(0, window_height, 0, window_width, 1, -1);
-  glMatrixMode(GL_MODELVIEW);
-  glLoadIdentity();
-  glutDisplayFunc(renderFunction);
-  glutMainLoop();
+  Draw *incremental = new Draw("incremental", edges);
+  incremental->draw_window(argc, argv);
+  delete incremental;
 
 	return 0;
 }
