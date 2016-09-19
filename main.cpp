@@ -9,6 +9,7 @@
 #include "triangle.h"
 #include "delaunay.h"
 #include "draw.h"
+#include "incr.h"
 
 #include "GL/freeglut.h"
 #include "GL/gl.h"
@@ -16,10 +17,7 @@
 typedef Vector2<float> Vec2f;
 
 float RandomFloat(float a, float b) {
-    float random = ((float) rand()) / (float) RAND_MAX;
-    float diff = b - a;
-    float r = random * diff;
-    return a + r;
+    return float(rand() % int(b) + a);
 }
 
 
@@ -27,7 +25,7 @@ int main(int argc, char** argv)
 {
 	srand (time(NULL));
 	float numberPoints = roundf(RandomFloat(4, 40));
-  numberPoints = 5;
+  numberPoints = 20;
   int window_height = 800;
   int window_width = 600;
 
@@ -58,9 +56,11 @@ int main(int argc, char** argv)
 		std::cout << e.p1.x << std::endl;
 
   // openGl Drawing for Incremental Delaunay Triangulation
+
   Draw *incremental = new Draw("incremental", edges);
   incremental->draw_window(argc, argv);
   delete incremental;
 
+  //----------------------------------------------------------------------------
 	return 0;
 }

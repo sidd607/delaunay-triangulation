@@ -12,7 +12,27 @@ Triangle::Triangle(const Vec2f &_p1, const Vec2f &_p2, const Vec2f &_p3)
 
 bool Triangle::containsVertex(const Vec2f &v)
 {
-	return p1 == v || p2 == v || p3 == v; 
+	return p1 == v || p2 == v || p3 == v;
+}
+
+float triangleArea(const Vec2f &p1, const Vec2f &p2, const Vec2f &p3) {
+		float area = abs(p1.x*(p2.y - p3.y) + p2.x * (p3.y - p1.y) + p3.x * (p1.y - p2.y));
+		return area;
+}
+
+
+// Checks is a point is within the triangle or not
+bool Triangle::triangleContains(const Vec2f &v){
+
+	float area = triangleArea(p1, p2, p3);
+	float pab = triangleArea(v, p1, p2);
+	float pbc = triangleArea(v, p2, p3);
+	float pca = triangleArea(v, p3, p1);
+	if (area == (pab + pbc + pca)) {
+		return true;
+	}
+	else
+		return false;
 }
 
 bool Triangle::circumCircleContains(const Vec2f &v)

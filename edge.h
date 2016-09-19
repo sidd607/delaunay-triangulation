@@ -10,6 +10,7 @@ class Edge
 	public:
 		Edge(const Vec2f &p1, const Vec2f &p2) : p1(p1), p2(p2) {};
 		Edge(const Edge &e) : p1(e.p1), p2(e.p2) {};
+		float getDistance(const Vec2f &v);
 
 		Vec2f p1;
 		Vec2f p2;
@@ -26,5 +27,4 @@ inline bool operator == (const Edge & e1, const Edge & e2)
 			(e1.p1 == e2.p2 && e1.p2 == e2.p1);
 }
 
-#endif 
-
+#endif

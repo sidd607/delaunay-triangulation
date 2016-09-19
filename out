@@ -1,0 +1,2651 @@
+Generating 10 random points
+Super triangle 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Traitement du point Point x: 64.9799 y: 523.694
+_triangles contains 1 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Traitement du point Point x: 443.961 y: 490.314
+_triangles contains 4 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 443.961 y: 490.314 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Traitement du point Point x: 762.328 y: 120.621
+_triangles contains 7 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 762.328 y: 120.621 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 762.328 y: 120.621 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 762.328 y: 120.621 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Traitement du point Point x: 720.721 y: 412.69
+_triangles contains 11 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 720.721 y: 412.69 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 720.721 y: 412.69 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 720.721 y: 412.69 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 720.721 y: 412.69 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 720.721 y: 412.69 in his circum center
+Traitement du point Point x: 787.21 y: 558.53
+_triangles contains 15 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+ does not contains Point x: 787.21 y: 558.53 in his circum center
+Traitement du point Point x: 639.657 y: 393.104
+_triangles contains 21 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 639.657 y: 393.104 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Traitement du point Point x: 513.395 y: 546.348
+_triangles contains 21 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+ does not contains Point x: 513.395 y: 546.348 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Traitement du point Point x: 756.311 y: 444.992
+_triangles contains 26 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Pushing bad triangle Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 426.095 y: 14744.9
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+ does not contains Point x: 756.311 y: 444.992 in his circum center
+Traitement du point Point x: 223.224 y: 42.1419
+_triangles contains 30 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Pushing bad triangle Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 426.095 y: 14744.9
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 756.311 y: 444.992
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 756.311 y: 444.992
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 756.311 y: 444.992
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 513.395 y: 546.348
+
+ does not contains Point x: 223.224 y: 42.1419 in his circum center
+Traitement du point Point x: 565.815 y: 144.358
+_triangles contains 36 elements
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 64.9799 y: 523.694
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Edge Point x: -14018.5 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: -14018.5 y: -421.894, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 762.328 y: 120.621
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 443.961 y: 490.314
+	Point x: 787.21 y: 558.53
+	Edge Point x: 426.095 y: 14744.9, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: -14018.5 y: -421.894
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Pushing bad triangle Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Processing 
+Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: 14870.7 y: -421.894
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Edge Point x: 14870.7 y: -421.894, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 14870.7 y: -421.894
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+
+Pushing bad triangle Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: -14018.5 y: -421.894, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Pushing bad triangle Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 14870.7 y: -421.894
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+Processing 
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 426.095 y: 14744.9
+	Point x: 513.395 y: 546.348
+	Edge Point x: 787.21 y: 558.53, Point x: 426.095 y: 14744.9
+	Edge Point x: 426.095 y: 14744.9, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 756.311 y: 444.992
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 443.961 y: 490.314
+
+Pushing bad triangle Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: -14018.5 y: -421.894
+	Point x: 756.311 y: 444.992
+	Edge Point x: 443.961 y: 490.314, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 443.961 y: 490.314
+
+Processing 
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Pushing bad triangle Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Processing 
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 756.311 y: 444.992
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 513.395 y: 546.348
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 14870.7 y: -421.894
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 426.095 y: 14744.9, Point x: 14870.7 y: -421.894
+	Edge Point x: 14870.7 y: -421.894, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 426.095 y: 14744.9
+
+Pushing bad triangle Triangle:
+	Point x: 426.095 y: 14744.9
+	Point x: 762.328 y: 120.621
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 426.095 y: 14744.9, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 426.095 y: 14744.9
+
+Processing 
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: -14018.5 y: -421.894
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: -14018.5 y: -421.894
+	Edge Point x: -14018.5 y: -421.894, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+Pushing bad triangle Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+Processing 
+Triangle:
+	Point x: -14018.5 y: -421.894
+	Point x: 756.311 y: 444.992
+	Point x: 223.224 y: 42.1419
+	Edge Point x: -14018.5 y: -421.894, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: -14018.5 y: -421.894
+
+ does not contains Point x: 565.815 y: 144.358 in his circum center
+Processing 
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+Pushing bad triangle Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+14 triangles generated
+ ========= 
+Points : 10
+Point x: 64.9799 y: 523.694
+Point x: 443.961 y: 490.314
+Point x: 762.328 y: 120.621
+Point x: 720.721 y: 412.69
+Point x: 787.21 y: 558.53
+Point x: 639.657 y: 393.104
+Point x: 513.395 y: 546.348
+Point x: 756.311 y: 444.992
+Point x: 223.224 y: 42.1419
+Point x: 565.815 y: 144.358
+
+Triangles : 14
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 762.328 y: 120.621
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 762.328 y: 120.621
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 720.721 y: 412.69
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 64.9799 y: 523.694
+
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 762.328 y: 120.621
+
+Triangle:
+	Point x: 443.961 y: 490.314
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 443.961 y: 490.314, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 443.961 y: 490.314
+
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 64.9799 y: 523.694
+	Point x: 787.21 y: 558.53
+	Edge Point x: 762.328 y: 120.621, Point x: 64.9799 y: 523.694
+	Edge Point x: 64.9799 y: 523.694, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 762.328 y: 120.621
+
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 720.721 y: 412.69
+	Point x: 513.395 y: 546.348
+	Edge Point x: 64.9799 y: 523.694, Point x: 720.721 y: 412.69
+	Edge Point x: 720.721 y: 412.69, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 64.9799 y: 523.694
+
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 443.961 y: 490.314
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 443.961 y: 490.314
+	Edge Point x: 443.961 y: 490.314, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Triangle:
+	Point x: 64.9799 y: 523.694
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Edge Point x: 64.9799 y: 523.694, Point x: 513.395 y: 546.348
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 64.9799 y: 523.694
+
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 756.311 y: 444.992
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 513.395 y: 546.348
+
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 787.21 y: 558.53
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 787.21 y: 558.53
+	Edge Point x: 787.21 y: 558.53, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+Triangle:
+	Point x: 513.395 y: 546.348
+	Point x: 756.311 y: 444.992
+	Point x: 223.224 y: 42.1419
+	Edge Point x: 513.395 y: 546.348, Point x: 756.311 y: 444.992
+	Edge Point x: 756.311 y: 444.992, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 513.395 y: 546.348
+
+Triangle:
+	Point x: 762.328 y: 120.621
+	Point x: 223.224 y: 42.1419
+	Point x: 565.815 y: 144.358
+	Edge Point x: 762.328 y: 120.621, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 565.815 y: 144.358
+	Edge Point x: 565.815 y: 144.358, Point x: 762.328 y: 120.621
+
+Triangle:
+	Point x: 787.21 y: 558.53
+	Point x: 223.224 y: 42.1419
+	Point x: 565.815 y: 144.358
+	Edge Point x: 787.21 y: 558.53, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 565.815 y: 144.358
+	Edge Point x: 565.815 y: 144.358, Point x: 787.21 y: 558.53
+
+Triangle:
+	Point x: 756.311 y: 444.992
+	Point x: 223.224 y: 42.1419
+	Point x: 565.815 y: 144.358
+	Edge Point x: 756.311 y: 444.992, Point x: 223.224 y: 42.1419
+	Edge Point x: 223.224 y: 42.1419, Point x: 565.815 y: 144.358
+	Edge Point x: 565.815 y: 144.358, Point x: 756.311 y: 444.992
+
+
+Edges : 42
+64.9799
+443.961
+762.328
+64.9799
+443.961
+720.721
+762.328
+64.9799
+720.721
+443.961
+64.9799
+787.21
+762.328
+64.9799
+787.21
+64.9799
+720.721
+513.395
+64.9799
+443.961
+756.311
+64.9799
+513.395
+756.311
+513.395
+787.21
+756.311
+513.395
+787.21
+223.224
+513.395
+756.311
+223.224
+762.328
+223.224
+565.815
+787.21
+223.224
+565.815
+756.311
+223.224
+565.815
+From Render Function
+From Render Function
