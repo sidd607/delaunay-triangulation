@@ -27,17 +27,17 @@ function BowyerWatson (pointList)
             remove triangle from triangulation
       return triangulation
 ```
-  
+
 ## Sample  
-  
+
 ![alt text](https://github.com/Bl4ckb0ne/delaunay-triangulation/blob/master/sample.png "Sample image (if you see this, then the image can't load or hasn't loaded yet)")  
-  
+
 
 From the [Wikipedia page of the algorithm](https://en.wikipedia.org/wiki/Bowyer%E2%80%93Watson_algorithm)  
-  
+
 ## Requirement  
-  
-You will need [SFML 2+](http://www.sfml-dev.org/download/sfml/2.3.2/) to run the example, and C++11 to compile it.
+
+You will need OpenGL to run the example, and C++11 to compile it.
 
 ## Usage
 
@@ -45,18 +45,13 @@ To build it, you can type in :
 ```sh
 make
 ```
-You may change the compiler on the makefile (using the CXX var)
-```sh
-make CXX=g++ 		# to use the GCC compiler
-make CXX=clang++ 	      # default compiler
-```
 
 The executable name is ``` delaunay ```, without arguments
 ```sh
 ./delaunay
 ```
 
-You also can clear the executable and the build folder.
+You also can clear the executable.
 ```sh
 make clean
 ```
