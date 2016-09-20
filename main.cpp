@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 		points.push_back(Vec2f(x,y));
 	}
 
-	Delaunay triangulation;
+	Incr triangulation;
 	std::vector<Triangle> triangles = triangulation.triangulate(points);
 	std::cout << triangles.size() << " triangles generated\n";
 	std::vector<Edge> edges = triangulation.getEdges();
@@ -58,15 +58,23 @@ int main(int argc, char** argv)
 	for(auto &e : edges)
 		std::cout << e << std::endl;
 
+  std::cout << "Delaunay---------------------------------------------------\n";
+  Delaunay delaunay_triangulation;
+  std::vector<Triangle> delaunay_triangles = delaunay_triangulation.triangulate(points);
+  std::cout << delaunay_triangles.size() << "Triangles Generated"<< std::endl;
+  std::vector<Edge> delaunay_edges = delaunay_triangulation.getEdges();
+
   std::cout << "LAWSON------------------------------------------------------\n";
   Lawson lawson_triangulation;
   std::vector<Triangle> lawson_triangles = lawson_triangulation.triangulate(points, triangles);
   std::vector<Edge> lawson_edges = lawson_triangulation.getEdges();
 
+  for(auto &t: lawson_triangles)
+    std::cout<< t << std::endl;
 
   // openGl Drawing for Incremental Delaunay Triangulation
 
-  Draw *incremental = new Draw("Geometric Modelling", edges);
+  Draw *incremental = new Draw("Geometric Modelling", lawson_edges);
   incremental->draw_window(argc, argv);
   delete incremental;
 

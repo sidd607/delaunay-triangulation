@@ -59,21 +59,26 @@ const std::vector<Triangle>& Lawson::triangulate(std::vector<Vec2f> &vertices, s
         p2 = triangle_list[0].p1;
         p3 = triangle_list[0].p2;
       }
+      std::cout << "Triangle: " << triangle_list[1] << std::endl;
+      std::cout << "Edge : " << e <<std::endl;
       if (triangle_list[1].p1 == e.p1 && triangle_list[1].p2 == e.p2){
-        p1 = triangle_list[0].p1;
-        p2 = triangle_list[0].p2;
-        p4 = triangle_list[0].p3;
+        std::cout << "Condition1\n";
+        std::cout << triangle_list[1].p3;
+        p4 = triangle_list[1].p3
+        ;
       }
+
       if (triangle_list[1].p2 == e.p1 && triangle_list[1].p3 == e.p2){
-        p1 = triangle_list[0].p2;
-        p2 = triangle_list[0].p3;
-        p4 = triangle_list[0].p1;
+        std::cout << "Condition2\n";
+        p4 = triangle_list[1].p1;
       }
+
       if (triangle_list[1].p3 == e.p1 && triangle_list[1].p1 == e.p2){
-        p1 = triangle_list[0].p3;
-        p2 = triangle_list[0].p1;
-        p4 = triangle_list[0].p2;
+        std::cout << "Condition3\n";
+        p4 = triangle_list[1].p2;
       }
+
+      std::cout << "Vertices : " <<p1 << p2<<p3<<p4 <<std::endl;
       if(triangle_list[0].circumCircleContains(p4)){
         _triangles.erase(std::remove_if(begin(_triangles), end(_triangles), [triangle_list](Triangle &t){
           for(auto bt = begin(triangle_list); bt != end(triangle_list); bt++)
@@ -89,6 +94,7 @@ const std::vector<Triangle>& Lawson::triangulate(std::vector<Vec2f> &vertices, s
 
         _triangles.push_back(Triangle(p1, p4, p3));
         _triangles.push_back(Triangle(p2, p4, p3));
+
         int flag = 0;
         for(auto ie = begin(illegal_edge); ie != end(illegal_edge); ie++){
           if(*ie == Edge(p1, p4))
