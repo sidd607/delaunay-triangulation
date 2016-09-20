@@ -31,7 +31,8 @@ int main(int argc, char** argv)
   int window_width = 600;
 
 	std::cout << "Generating " << numberPoints << " random points" << std::endl;
-
+  int q;
+  std::cin>>q;
 	std::vector<Vec2f> points;
 	for(int i = 0; i < numberPoints; i++) {
     float x, y;
@@ -74,10 +75,21 @@ int main(int argc, char** argv)
 
   // openGl Drawing for Incremental Delaunay Triangulation
 
-  Draw *incremental = new Draw("Geometric Modelling", lawson_edges);
-  incremental->draw_window(argc, argv);
-  delete incremental;
-
+  if(q == 1){
+    Draw *incremental = new Draw("Geometric Modelling", edges);
+    incremental->draw_window(argc, argv);
+    delete incremental;
+  }
+  else if (q==2){
+    Draw *incremental = new Draw("Geometric Modelling", lawson_edges);
+    incremental->draw_window(argc, argv);
+    delete incremental;
+  }
+  else{
+    Draw *incremental = new Draw("Geometric Modelling", delaunay_edges);
+    incremental->draw_window(argc, argv);
+    delete incremental;
+  }
   //----------------------------------------------------------------------------
 	return 0;
 }

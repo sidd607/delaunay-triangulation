@@ -64,8 +64,7 @@ const std::vector<Triangle>& Lawson::triangulate(std::vector<Vec2f> &vertices, s
       if (triangle_list[1].p1 == e.p1 && triangle_list[1].p2 == e.p2){
         std::cout << "Condition1\n";
         std::cout << triangle_list[1].p3;
-        p4 = triangle_list[1].p3
-        ;
+        p4 = triangle_list[1].p3;
       }
 
       if (triangle_list[1].p2 == e.p1 && triangle_list[1].p3 == e.p2){
