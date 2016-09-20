@@ -34,10 +34,12 @@ int main(int argc, char** argv)
 
 	std::vector<Vec2f> points;
 	for(int i = 0; i < numberPoints; i++) {
-		points.push_back(Vec2f(RandomFloat(10, window_height - 10), RandomFloat(10, window_width - 10)));
+    float x, y;
+    std::cin>>x>>y;
+		points.push_back(Vec2f(x,y));
 	}
 
-	Incr triangulation;
+	Delaunay triangulation;
 	std::vector<Triangle> triangles = triangulation.triangulate(points);
 	std::cout << triangles.size() << " triangles generated\n";
 	std::vector<Edge> edges = triangulation.getEdges();
@@ -64,7 +66,7 @@ int main(int argc, char** argv)
 
   // openGl Drawing for Incremental Delaunay Triangulation
 
-  Draw *incremental = new Draw("Geometric Modelling", lawson_edges);
+  Draw *incremental = new Draw("Geometric Modelling", edges);
   incremental->draw_window(argc, argv);
   delete incremental;
 
