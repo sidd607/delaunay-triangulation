@@ -10,6 +10,7 @@
 #include "delaunay.h"
 #include "draw.h"
 #include "incr.h"
+#include "lawson.h"
 
 #include "GL/freeglut.h"
 #include "GL/gl.h"
@@ -25,7 +26,7 @@ int main(int argc, char** argv)
 {
 	srand (time(NULL));
 	float numberPoints = roundf(RandomFloat(4, 40));
-  numberPoints = 20;
+  numberPoints = 10;
   int window_height = 800;
   int window_width = 600;
 
@@ -36,7 +37,7 @@ int main(int argc, char** argv)
 		points.push_back(Vec2f(RandomFloat(10, window_height - 10), RandomFloat(10, window_width - 10)));
 	}
 
-	Delaunay triangulation;
+	Incr triangulation;
 	std::vector<Triangle> triangles = triangulation.triangulate(points);
 	std::cout << triangles.size() << " triangles generated\n";
 	std::vector<Edge> edges = triangulation.getEdges();
@@ -53,11 +54,17 @@ int main(int argc, char** argv)
 
 	std::cout << "\nEdges : " << edges.size() << std::endl;
 	for(auto &e : edges)
-		std::cout << e.p1.x << std::endl;
+		std::cout << e << std::endl;
+
+  std::cout << "LAWSON------------------------------------------------------\n";
+  Lawson lawson_triangulation;
+  std::vector<Triangle> lawson_triangles = lawson_triangulation.triangulate(points, triangles);
+  std::vector<Edge> lawson_edges = lawson_triangulation.getEdges();
+
 
   // openGl Drawing for Incremental Delaunay Triangulation
 
-  Draw *incremental = new Draw("incremental", edges);
+  Draw *incremental = new Draw("Geometric Modelling", lawson_edges);
   incremental->draw_window(argc, argv);
   delete incremental;
 

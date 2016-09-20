@@ -1,6 +1,18 @@
 #include "incr.h"
 #include <algorithm>
 
+
+float distance(Vec2f v1, Vec2f v2){
+  return sqrt( ((v1.x - v2.x)*(v1.x - v2.x)) + ((v1.y - v2.y)*(v1.y - v2.y)) );
+}
+
+float min(float a, float b){
+  if (a<=b)
+    return a;
+  else
+    return b;
+}
+
 const std::vector<Triangle>& Incr::triangulate(std::vector<Vec2f> &vertices)
 {
 	// Store the vertices localy
@@ -11,6 +23,12 @@ const std::vector<Triangle>& Incr::triangulate(std::vector<Vec2f> &vertices)
 	Vec2f p3(vertices[2].x, vertices[2].y);
 
   _triangles.push_back(Triangle(p1, p2, p3));
+  std::vector<Edge> convex_hull;
+  convex_hull.push_back(Edge(p1, p2));
+  convex_hull.push_back(Edge(p2, p3));
+  convex_hull.push_back(Edge(p3, p1));
+
+
 
   for(auto p = begin(vertices)+3; p != end(vertices); p++){
     std::cout << "Vertex:" << *p <<std::endl;
@@ -29,6 +47,76 @@ const std::vector<Triangle>& Incr::triangulate(std::vector<Vec2f> &vertices)
     }
 
     if (flag == 0){
+      /*
+      std::cout << "Convex HULL Size: " << convex_hull.size() << std::endl;
+      auto e = begin(convex_hull);
+      Vec2f min_point1;
+      Vec2f min_point2;
+      float min_dist1;
+      float min_dist2;
+
+      if (distance(*p, e->p1) < (distance(*p, e->p2))){
+        min_point1 = e->p1;
+        min_point2 = e->p1;
+        min_dist1 = distance(*p, e->p1);
+        min_dist2 = distance(*p, e->p2);
+      }
+      else{
+        min_point1 = e->p2;
+        min_point2 = e->p1;
+        min_dist1 = distance(*p, e->p2);
+        min_dist2 = distance(*p, e->p1);
+      }
+
+      for (auto e = begin(convex_hull)+1; e != end(convex_hull); e++){
+
+        float dist_a = distance(*p, e->p1);
+        float dist_b = distance(*p, e->p2);
+
+        if (dist_a <= min_dist1){
+          min_dist2 = min_dist1;
+          min_dist1 = dist_a;
+          min_point2 = min_point1;
+          min_point1 = e->p1;
+        }
+        else if(dist_b <= min_dist1){
+          min_dist2 = min_dist1;
+          min_dist1 = dist_b;
+          min_point2 = min_point1;
+          min_point1 = e->p2;
+        }
+        else if(dist_a <= min_dist2 && dist_a > min_dist1){
+          min_dist2 = dist_a;
+          min_point2 = e->p1;
+        }
+        else if(dist_b <= min_dist2 && dist_b > min_dist1){
+          min_dist2 = dist_b;
+          min_point2 = e->p2;
+        }
+      }
+      _triangles.push_back(Triangle(*p, min_point2, min_point1));
+
+      std::vector<Edge> bad_edge;
+      bad_edge.push_back(Edge(min_point1, min_point2));
+      std::cout << "Bad Edge Convex hull: " << bad_edge.size();
+      convex_hull.erase(std::remove_if(begin(convex_hull), end(convex_hull), [bad_edge](Edge &e){
+  			for(auto be = begin(bad_edge); be != end(bad_edge); be++)
+  			{
+  				if(*be == e)
+  				{
+  					std::cout << "Removing bad convex_hull edge" << std::endl;
+  					return true;
+  				}
+  			}
+  			return false;
+  		}), end(convex_hull));
+
+      std::cout << "Adding to convex hull\n";
+      convex_hull.push_back(Edge(*p, min_point1));
+      convex_hull.push_back(Edge(*p, min_point2));
+
+
+      */
       auto t = begin(_triangles);
       Edge min_edge = t->e1;
       float min_dist = min_edge.getDistance(*p);
@@ -49,6 +137,7 @@ const std::vector<Triangle>& Incr::triangulate(std::vector<Vec2f> &vertices)
       }
       std::cout << "Min Dist " << min_dist << "\n";
       _triangles.push_back(Triangle(*p, min_edge.p1, min_edge.p2));
+
     }
 
 
